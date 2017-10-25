@@ -17,18 +17,18 @@ time which are depicted in results.
 [//]: # (Image References)
 [image1]: images/gridmodel.PNG
 [image2]: ./images/algorithm.PNG
-[image3]: images/topology.png
-[image4]: images/case-1.png
-[image5]: images/case-2.png
-[image6]: images/case-3.png
+[image3]: images/topology.PNG
+[image4]: images/case-1.PNG
+[image5]: images/case-2.PNG
+[image6]: images/case-3.PNG
 
 ### Why PV
-Economically optimal size
-Easy to design
-Abundantly available
-Compatibility with utility grid
-Extraction and tracking the maximum power
-Dynamic performance of a VSI
+1.Economically optimal size
+2.Easy to design
+3.Abundantly available
+4.Compatibility with utility grid
+5.Extraction and tracking the maximum power
+6.Dynamic performance of a VSI
 
 ### Grid-connected PV array block diagram
 
