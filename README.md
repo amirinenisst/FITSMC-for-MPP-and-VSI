@@ -15,8 +15,8 @@ time which are depicted in results.
 
 
 [//]: # (Image References)
-[image1]: images/gridmodel.png
-[image2]: images/algorithm.png
+[image1]: images/gridmodel.PNG
+[image2]: ./images/algorithm.PNG
 [image3]: images/topology.png
 [image4]: images/case-1.png
 [image5]: images/case-2.png
