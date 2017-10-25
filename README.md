@@ -15,12 +15,12 @@ time which are depicted in results.
 
 
 [//]: # (Image References)
-[image1]: ./images/gridmodel.png
-[image2]: ./images/algorithm.png
-[image3]: ./images/topology.png
-[image4]: ./images/case-1.png
-[image5]: ./images/case-2.png
-[image6]: ./images/case-3.png
+[image1]: images/gridmodel.png
+[image2]: images/algorithm.png
+[image3]: images/topology.png
+[image4]: images/case-1.png
+[image5]: images/case-2.png
+[image6]: images/case-3.png
 
 ### Why PV
 Economically optimal size
